@@ -23,6 +23,10 @@ Here is the list of apps which I have configured:
 
 3. tmux
 
+4. Hypr ecosystem (Hyprland, hyprsunset)
+
+5. Waybar, waypaper
+
 ## About this repo
 
 - `.stow-local-ignore` - config for stow to ignore some files (they won't be copied into you home and config dirs)
