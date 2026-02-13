@@ -21,6 +21,8 @@ Here is the list of apps which I have configured:
 
 2. Neovim
 
+3. tmux
+
 ## About this repo
 
 - `.stow-local-ignore` - config for stow to ignore some files (they won't be copied into you home and config dirs)
